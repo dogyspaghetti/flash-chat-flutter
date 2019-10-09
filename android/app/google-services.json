@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "139694282501",
+    "firebase_url": "https://chrisport-flash-shat.firebaseio.com",
+    "project_id": "chrisport-flash-shat",
+    "storage_bucket": "chrisport-flash-shat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139694282501:android:cc9d4b027794c6bd82896c",
+        "android_client_info": {
+          "package_name": "com.chrisport.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139694282501-ij8ao5i0l5j9tk3gemh84pjoa4rarvud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzyFonC4EVCqWfEwZJ8TZ3k6_tnr0BTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139694282501-ij8ao5i0l5j9tk3gemh84pjoa4rarvud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
